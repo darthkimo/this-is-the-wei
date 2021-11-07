@@ -1,0 +1,23 @@
+{
+  "name": "this-is-the-wei",
+  "version": "1.0.0",
+  "description": "New Personal Website build in 11ty",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthkimo/this-is-the-wei.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthkimo/this-is-the-wei/issues"
+  },
+  "homepage": "https://github.com/darthkimo/this-is-the-wei#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
